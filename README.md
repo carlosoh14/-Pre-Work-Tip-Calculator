@@ -26,11 +26,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/carlosoh14/-Pre-Work-Tip-Calculator/blob/master/tips.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Walkthrough](tips.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-![Walkthrough](tips.gif)
 
 ## Notes
 
